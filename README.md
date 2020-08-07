@@ -1,2 +1,2 @@
 # LoanPayoffPredictor
-Using Kaggle dataset from a Loan Lender to predict whether someone will pay off a loan
+Using Machine Learning and a Loan Lender dataset from Kaggle, will predict whether someone will pay off a loan or default.
